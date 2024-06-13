@@ -143,6 +143,15 @@
     /* Show mobile-only icons */
     
 }
+/* Ensure this file is properly linked in your HTML */
+
+
+
+@media (max-width: 768px) {
+  .logo-img {
+    width: 350px !important; /* Adjust size for mobile and use !important */
+  }
+}
 
 
 </style>
@@ -163,18 +172,21 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="d-flex align-items-center justify-content-between">
-                <a href="/" class="logo"><img src="assets/images/logoazad.png" alt="Azad Metal Engineering" title="Azad Metal Engineering" class="img-fluid"></a>
+                <a href="/" class="logo"><img src="assets/images/logoazad.png" alt="Azad Metal Engineering" title="Azad Metal Engineering" class="img-fluid logo-img"></a>
                 <nav id="navbar" class="navbar">
                     <ul>
                         <li><a class="nav-link scrollto active" href="/">Home</a></li>
                         <li><a class="nav-link scrollto" href="about-us"><span>About Us</span></a></li>
                         <li class="dropdown"><a href="#"><span>Our Products</span> <i class="fa fa-chevron-down"></i></a>
                             <ul>
-                                <li class="dropdown"><a href="#"><span>Industrial Rack</span> <i class="fa fa-chevron-right"></i></a>
+                                <li class="dropdown"><a href="#"><span>Rack</span> <i class="fa fa-chevron-right"></i></a>
                                     <ul>
                                         <li><a href="vagetable_rack">Vegetable Rack</a></li>
                                         <li><a href="food_grade_steel_rack">Food Grade Steel Rack</a></li>
                                         <li><a href="sloted_angle_rack">Slotted Angle Rack</a></li>
+                                        <li><a href="industrial_rack">Industrial Rack</a></li>
+                                        <li><a href="display_rack">Display Rack</a></li>
+                                        <li><a href="super_market_rack">Super Market Rack</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#"><span>Almirah</span> <i class="fa fa-chevron-right"></i></a>
@@ -184,7 +196,7 @@
                                         <li><a href="home_almirah">Home Almirah</a></li>
                                     </ul>
                                 </li>  
-                                <li><a href="display_rack">Display Rack</a></li>
+                                
                                 <li><a href="industrial_shed">Industrial Shed</a></li>
                             </ul>
                         </li>
