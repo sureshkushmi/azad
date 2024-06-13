@@ -181,7 +181,7 @@
                             <ul>
                                 <li class="dropdown"><a href="#"><span>Rack</span> <i class="fa fa-chevron-right"></i></a>
                                     <ul>
-                                        <li><a href="vagetable_rack">Vegetable Rack</a></li>
+                                        <li><a href="vegetable_rack">Vegetable Rack</a></li>
                                         <li><a href="food_grade_steel_rack">Food Grade Steel Rack</a></li>
                                         <li><a href="sloted_angle_rack">Slotted Angle Rack</a></li>
                                         <li><a href="industrial_rack">Industrial Rack</a></li>

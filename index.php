@@ -94,15 +94,7 @@ z-index: 100;
 /* padding: 0px 11px 4px; */
 }
 
-.fa{
-display: inline-block;
-font: normal normal normal 14px/1 FontAwesome;
-font-size:inherit;
-}
-.fa-whatsapp:before{
-content: "\f232";
-}
 </style>
 <?php 
-include_once($base_url .'footer.php');
+include_once('footer.php');
 ?>

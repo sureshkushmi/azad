@@ -9,28 +9,25 @@ include_once('slide_out_form.php');
 <div class="row">
     <div class="col-md-8">
     <div class="cate-left-sidebar">
-        <img src="assets/images/pages/vegetable_rack.jpg" alt="Vegetable Rack" title="Vegetable Rack" class="img-fluid">
+        <img src="assets/images/pages/super_market_rack.jpg" alt="Supermarket Rack" title="Supermarket Rack" class="img-fluid">
         </div>
         <div class="portfolio-info" style="box-shadow: none;">
-<h2><font size="5">Vegetable Rack</font></h2>
+<h2><font size="5">Supermarket Rack</font></h2>
 
-<p>Vegetable racks are designed to keep produce organized and easily accessible. Here are some specifications for different types of vegetable racks based on the information available:
+<p>Supermarket racks are essential for efficient product display and organization in retail environments. Here are some general specifications and considerations based on industry standards and best practices:
 
-5-Tier Vegetable Fruit Rack1:
-Overall Dimensions: 47.6" W x 13.8" D x 23.6" H
-Material: High-quality particleboard and heavy-duty metal
-Weight Capacity: Each bin can hold up to 40 pounds
-Features: Pull-out design with four drawers, expansive storage capacity, and simple assembly
-BLUEBELL Tall Wood Vegetable Fruit Rack2:
-Overall Dimensions: 29.12" W x 12.2" D x 55.12" H
-Material: Engineered wood with sturdy metal legs
-Weight Capacity: 100 pounds per layer, total capacity of 400 pounds
-Features: 4-tier storage with eight angled boxes, foot pads for stability, anti-reversing straps for safety
-4-Tier Wood Fruit Vegetable Storage Rack3:
-Dimensions: 29" W x 12" D x 55" H
-Features: Stackable design, suitable for kitchen, pantry, grocery store, and more
-These specifications should give you a good idea of what to expect when looking for a vegetable rack. The dimensions and features can vary depending on the manufacturer and model, so it’s always a good idea to check the specific details for the product you’re interested in. If you need more detailed information or assistance with a particular model, feel free to ask!
+1. Dimensions:
+
+    Height: Supermarket racks typically range from 5 to 8 feet in height, providing ample space for vertical display while maintaining visibility across the store.
+    Width: Racks vary in width to accommodate different aisle sizes and product quantities, with common widths ranging from 3 to 6 feet.
+    Depth: Depths typically range from 12 to 24 inches, allowing for the display of various product sizes while optimizing aisle space.
+
+2. Construction Material:
+
+    Supermarket racks are often constructed from durable materials such as steel or aluminum to withstand the demands of constant use and heavy product loads.
+    Powder-coated finishes are commonly applied to enhance durability, resist corrosion, and maintain an attractive appearance over time.
 </p>
+    
 </div>
 <!--<a href="#" onClick="productEnquiry('Slotted Angle Rack');" class="btn btn-warning mt-3">Enquiry Now</a>-->
         
@@ -79,12 +76,29 @@ These specifications should give you a good idea of what to expect when looking 
 </div>
 </div>
 </section> 
-
 <section>
 <div class="container"> 
 <h3>Related  Product -</h3> 
 
 <div class="row">
+    <div class="col-md-6 col-lg-6 col-12">
+        <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
+            <div class="row">
+                    <div class="col-md-6 col-lg-6 col-12"><a href="vegetable_rack">
+                        <img src="assets/images/pages/vegetable_rack.jpg" alt="Vegetable Rack" title="Vegetable Rack" class="img-fluid product-img"></a>
+                    </div>
+                <div class="col-md-6 col-lg-6 col-12">
+                    <h4>Vegetable Rack</h4> 
+                    <p>Vegetable racks are designed to keep produce organized and easily accessible. Here are some specifications for different types of vegetable racks based on the information available</p>
+                    
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="javascript:void(0);" onclick="productEnquiry('vegetable_rack');">ENQUIRY NOW</a></button>
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="vegetable_rack">VIEW DETAIL</a></button>
+                </div>    
+            </div>
+        </div>
+    </div>
     <div class="col-md-6 col-lg-6 col-12">
         <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
             <div class="row">
@@ -126,7 +140,7 @@ These specifications should give you a good idea of what to expect when looking 
     <div class="col-md-6 col-lg-6 col-12">
         <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
             <div class="row">
-                    <div class="col-md-6 col-lg-6 col-12"><a href="vegetable_rack">
+                    <div class="col-md-6 col-lg-6 col-12"><a href="sloted_angle_rack">
                         <img src="assets/images/pages/vegetable_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
                     </div>
                 <div class="col-md-6 col-lg-6 col-12">
@@ -183,6 +197,8 @@ These specifications should give you a good idea of what to expect when looking 
 </div>
 
 </section>
+
+
 </main>
 <div class="modal fade" id="enquire">
 <div class="modal-dialog" style="max-width: 580px;">

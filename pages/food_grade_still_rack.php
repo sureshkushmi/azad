@@ -80,6 +80,10 @@ These specifications provide a framework for what to consider when looking for f
 </div>
 </div>
 </section> 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 <section>
 <div class="container"> 
 <h3>Related  Product -</h3> 
@@ -125,7 +129,11 @@ These specifications provide a framework for what to consider when looking for f
     <div class="col-md-6 col-lg-6 col-12">
         <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
             <div class="row">
+<<<<<<< HEAD
                     <div class="col-md-6 col-lg-6 col-12"><a href="sloted_angle_rack">
+=======
+                    <div class="col-md-6 col-lg-6 col-12"><a href="food_rack">
+>>>>>>> origin/master
                         <img src="assets/images/pages/food_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
                     </div>
                 <div class="col-md-6 col-lg-6 col-12">
@@ -141,11 +149,73 @@ These specifications provide a framework for what to consider when looking for f
         </div>
     </div>
 
+<<<<<<< HEAD
+=======
+    <div class="col-md-6 col-lg-6 col-12">
+        <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
+            <div class="row">
+                    <div class="col-md-6 col-lg-6 col-12"><a href="vegetable_rack">
+                        <img src="assets/images/pages/vegetable_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
+                    </div>
+                <div class="col-md-6 col-lg-6 col-12">
+                    <h4>Vegetable Racks</h4> 
+                    <p>Vegetable racks are designed to keep produce organized and easily accessible. Here are some specifications for different types of vegetable racks based on the information available</p>
+                    
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="javascript:void(0);" onclick="productEnquiry('vegetable_rack');">ENQUIRY NOW</a></button>
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="vegetable_rack">VIEW DETAIL</a></button>
+                </div>    
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-6 col-12">
+        <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
+            <div class="row">
+                    <div class="col-md-6 col-lg-6 col-12"><a href="super_market_rack">
+                        <img src="assets/images/pages/super_market_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
+                    </div>
+                <div class="col-md-6 col-lg-6 col-12">
+                    <h4>Supermarket Racks</h4> 
+                    <p>Supermarket racks are essential for efficient product display and organization in retail environments. Here are some general specifications and considerations based on industry standards and best practices:</p>
+                    
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="javascript:void(0);" onclick="productEnquiry('super_market_rack');">ENQUIRY NOW</a></button>
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="super_market_rack">VIEW DETAIL</a></button>
+                </div>    
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 col-lg-6 col-12">
+        <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
+            <div class="row">
+                    <div class="col-md-6 col-lg-6 col-12"><a href="sloted_angle_rack">
+                        <img src="assets/images/pages/display_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
+                    </div>
+                <div class="col-md-6 col-lg-6 col-12">
+                    <h4>Display Racks</h4> 
+                    <p>Display racks are essential for efficient product display and organization in retail environments. Here are some general specifications and considerations based on industry standards and best practices:</p>
+                    
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="javascript:void(0);" onclick="productEnquiry('display_rack');">ENQUIRY NOW</a></button>
+                    <button type="button" class="btn btn-warning pro-des-but">
+                    <a href="vegetable_rack">VIEW DETAIL</a></button>
+                </div>     
+            </div>
+        </div>
+    </div>
+
+>>>>>>> origin/master
 </div>
 </div>
 
 </section>
+<<<<<<< HEAD
 </main>
+=======
+>>>>>>> origin/master
 </main>
 <div class="modal fade" id="enquire">
 <div class="modal-dialog" style="max-width: 580px;">

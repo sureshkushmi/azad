@@ -13,7 +13,7 @@ $requested_url = isset($_GET['url']) ? $_GET['url'] : '';
 $request_path = rtrim($requested_url, '/');
 
 // Log the requested URL and normalized request path
-error_log("Request Path: $request_path", 3, "C:/xampp/htdocs/azadn/error_log.log");
+//error_log("Request Path: $request_path", 3, "C:/xampp/htdocs/azadn/error_log.log");
 
 // If the request is for a static asset, do not route
 if (is_static_asset($request_path)) {
@@ -43,7 +43,7 @@ switch ($request_path) {
     case 'home_almirah':
         include_once('pages/home_almirah.php');
          break;
-        case 'vagetable_rack':
+        case 'vegetable_rack':
             include_once('pages/vegetable_rack.php');
             break;
         case 'industrial_rack':
@@ -55,6 +55,9 @@ switch ($request_path) {
         case 'display_rack':
             include_once('pages/display_rack.php');
             break;
+        case 'super_market_rack':
+            include_once('pages/super_market_rack.php');
+            break;    
         case 'industrial_shed':
             include_once('pages/industrial_shed.php');
             break;
