@@ -9,28 +9,23 @@ include_once('slide_out_form.php');
 <div class="row">
     <div class="col-md-8">
     <div class="cate-left-sidebar">
-        <img src="assets/images/pages/industrial_rack.jpg" alt="Industrial Rack" title="Industrial Rack" class="img-fluid">
+        <img src="assets/images/pages/supermarket_rack.jpg" alt="Supermarket Rack" title="Supermarket Rack" class="img-fluid">
         </div>
         <div class="portfolio-info" style="box-shadow: none;">
-<h2><font size="5">Industrial Rack</font></h2>
+<h2><font size="5">Supermarket Rack</font></h2>
 
-<p>Industrial racks are crucial for efficient storage and organization in warehouses and other storage facilities. Here are some general specifications and sizes for industrial racks based on the latest information:
+<p>Supermarket racks are essential for efficient product display and organization in retail environments. Here are some general specifications and considerations based on industry standards and best practices:
 
-Common Upright Depths:
-The most common depth for uprights, or front-to-back measurements, in industrial warehouses is 42 inches1.
-Variety of Heights:
-Warehouse racks offer a wide range of height options, typically ranging from 8 feet to 24 feet1.
-Width of Uprights:
-While the snippet does not provide specific numbers, upright widths can vary greatly to accommodate different storage needs.
-Material and Durability:
-Industrial steel shelving units are often made from steel with durable coatings, such as powder-coating, to prevent rust and oxidation2.
-Load Capacity:
-Steel storage racks are designed to hold heavy-duty items and have greater load capacities than other storage options like wood and plastic2.
-Safety and Compliance:
-It’s important to comply with OSHA requirements for warehouse racking to ensure safety. This includes proper stacking, stability, and height limitations to prevent accidents1.
-Modularity and Customization:
-Steel storage racks are modular by design, meaning they can be easily adjusted, reconfigured, and relocated according to needs2.
-These specifications are general and can vary depending on the manufacturer and the specific needs of your operation. For detailed information and to ensure that the racks meet your specific requirements, it’s best to consult with the rack manufacturer or a storage solutions expert. If you need assistance with a particular type of industrial rack or have more specific questions, feel free to ask!
+1. Dimensions:
+
+    Height: Supermarket racks typically range from 5 to 8 feet in height, providing ample space for vertical display while maintaining visibility across the store.
+    Width: Racks vary in width to accommodate different aisle sizes and product quantities, with common widths ranging from 3 to 6 feet.
+    Depth: Depths typically range from 12 to 24 inches, allowing for the display of various product sizes while optimizing aisle space.
+
+2. Construction Material:
+
+    Supermarket racks are often constructed from durable materials such as steel or aluminum to withstand the demands of constant use and heavy product loads.
+    Powder-coated finishes are commonly applied to enhance durability, resist corrosion, and maintain an attractive appearance over time.
 </p>
     
 </div>
@@ -145,7 +140,7 @@ These specifications are general and can vary depending on the manufacturer and 
     <div class="col-md-6 col-lg-6 col-12">
         <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
             <div class="row">
-                    <div class="col-md-6 col-lg-6 col-12"><a href="vegetable_rackss">
+                    <div class="col-md-6 col-lg-6 col-12"><a href="sloted_angle_rack">
                         <img src="assets/images/pages/vegetable_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
                     </div>
                 <div class="col-md-6 col-lg-6 col-12">
@@ -164,7 +159,7 @@ These specifications are general and can vary depending on the manufacturer and 
         <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
             <div class="row">
                     <div class="col-md-6 col-lg-6 col-12"><a href="super_market_rack">
-                        <img src="assets/images/pages/super_market_rack.jpg" alt="Supermarket Racks" title="Supermarket Racks" class="img-fluid product-img"></a>
+                        <img src="assets/images/pages/super_market_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
                     </div>
                 <div class="col-md-6 col-lg-6 col-12">
                     <h4>Supermarket Racks</h4> 
@@ -182,7 +177,7 @@ These specifications are general and can vary depending on the manufacturer and 
     <div class="col-md-6 col-lg-6 col-12">
         <div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
             <div class="row">
-                    <div class="col-md-6 col-lg-6 col-12"><a href="sloted_angle_rack">
+                    <div class="col-md-6 col-lg-6 col-12"><a href="display_rack">
                         <img src="assets/images/pages/display_rack.jpg" alt="Food Grade Steel Racks" title="Food Grade Steel Racks" class="img-fluid product-img"></a>
                     </div>
                 <div class="col-md-6 col-lg-6 col-12">
@@ -190,9 +185,9 @@ These specifications are general and can vary depending on the manufacturer and 
                     <p>Display racks are essential for efficient product display and organization in retail environments. Here are some general specifications and considerations based on industry standards and best practices:</p>
                     
                     <button type="button" class="btn btn-warning pro-des-but">
-                    <a href="javascript:void(0);" onclick="productEnquiry('vegetable_rack');">ENQUIRY NOW</a></button>
+                    <a href="javascript:void(0);" onclick="productEnquiry('display_rack');">ENQUIRY NOW</a></button>
                     <button type="button" class="btn btn-warning pro-des-but">
-                    <a href="vegetable_rack">VIEW DETAIL</a></button>
+                    <a href="display_rack">VIEW DETAIL</a></button>
                 </div>     
             </div>
         </div>
@@ -202,6 +197,8 @@ These specifications are general and can vary depending on the manufacturer and 
 </div>
 
 </section>
+
+
 </main>
 <div class="modal fade" id="enquire">
 <div class="modal-dialog" style="max-width: 580px;">
