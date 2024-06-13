@@ -1,0 +1,200 @@
+<?php 
+//include_once('routes.php');
+include_once('header.php');
+include_once('slide_out_form.php');
+?>
+<main id="main">
+<section class="cate portfolio-details">
+<div class="container ">
+<div class="row">
+    <div class="col-md-8">
+    <div class="cate-left-sidebar">
+        <img src="assets/images/pages/home_almirah.jpg" alt="Home Almirah" title="Home Almirah" class="img-fluid">
+        </div>
+        <div class="portfolio-info" style="box-shadow: none;">
+<h2><font size="5">Almirah</font></h2>
+
+<p>An almirah is a type of free-standing cupboard or wardrobe commonly used in South Asian countries like India, Pakistan, and Bangladesh. It serves as a versatile storage solution for various household items, including clothing, linens, documents, and other personal belongings. The term "almirah" can refer to a variety of storage units, but it typically describes a piece of furniture similar to what is known as an "armoire" or "wardrobe" in other parts of the world. Here’s a detailed description:
+
+Structure and Design
+Material:
+
+Wood: Traditional almirahs are often made from hardwoods like teak, sheesham, or mango wood, known for their durability and rich appearance.
+Metal: Steel and iron almirahs are popular for their robustness and security features.
+Plastic: Lightweight and often used for more affordable, versatile storage options.</p>
+    
+</div>
+<!--<a href="#" onClick="productEnquiry('Slotted Angle Rack');" class="btn btn-warning mt-3">Enquiry Now</a>-->
+        
+    </div>
+    <div class="col-md-4 sidebar-enquiry">
+      <div class="col-md-12 php-email-form positio-sticky">
+          <div class="bg-warning p-2"><span>Enquiry Form</span></div>
+          
+<form role="form" method="post" action="#" name="popup-enq" novalidate="novalidate">
+<input type="hidden" name="current_url" id="current_url" value="#">
+<input type="hidden" name="source" class="source" value="Slotted Angle Rack">  
+<div class="row">
+<div class=" form-group mt-2">
+<input type="text" name="vb_name" class="form-control" id="vb_name" placeholder="Your Name">
+</div>
+<div class=" form-group  mt-2">
+<input type="email" class="form-control" name="vb_email" id="vb_email" placeholder="Your Email">
+</div>
+</div>
+
+<div class="row">
+<div class=" form-group  mt-2">
+<input class="form-control" type="text" name="vb_phone" placeholder="Your Mobile Number*" maxlength="10">
+</div>
+</div>
+
+
+<div class="form-group  mt-2">
+<textarea class="form-control" rows="5" name="vb_message" placeholder="Your Message*"></textarea>
+</div>
+
+<div class="req" style="display: none;">
+<label for="website">Leave blank</label>
+<input type="text" name="website">
+</div>
+
+<input type="hidden" name="time" value="2024-06-11 11:54:17">
+
+<div class=""><button type="submit" name="submit" class="btn btn-warning mt-3">Send Message</button></div>
+
+</form>
+</div>
+        
+    </div>
+    
+</div>
+</div>
+</section> 
+<section>
+<div class="container"> 
+<h3>Related  Product -</h3> 
+
+<div class="row">
+<div class="col-md-6 col-lg-6 col-12">
+<div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
+<div class="row">
+<div class="col-md-6 col-lg-6 col-12"><a href="office_almirah">
+<img src="assets/images/pages/office_almirah.jpg" alt="Office Almirah" title="Office Almirah" class="img-fluid product-img"></a>
+</div>
+<div class="col-md-6 col-lg-6 col-12">
+<h4>Office Almirah</h4> 
+<p>Office almirahs, also known as storage cabinets, come in various sizes and are typically made from mild steel (MS) sheets. Here are some specifications for office almirahs based on the information available:
+</p>
+ 
+<button type="button" class="btn btn-warning pro-des-but">
+<a href="javascript:void(0);" onclick="productEnquiry('Office Almirah');">ENQUIRY NOW</a></button>
+<button type="button" class="btn btn-warning pro-des-but">
+<a href="office_almirah">VIEW DETAIL</a></button>
+</div>    
+</div>
+</div>
+</div>
+<div class="col-md-6 col-lg-6 col-12">
+<div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
+<div class="row">
+<div class="col-md-6 col-lg-6 col-12"><a href="locker_almirah">
+<img src="assets/images/pages/locker_almirah.jpg" alt="Locker Almirah" title="Locker Almirah" class="img-fluid product-img"></a>
+</div>
+<div class="col-md-6 col-lg-6 col-12">
+<h4>Locker Almirah.. </h4> 
+<p>Locker almirahs are secure storage solutions for offices, institutions, and personal spaces. They come in various sizes and specifications to meet different needs. Here’s a summary of the size and specifications for locker almirahs based on the information available..</p>
+ 
+<button type="button" class="btn btn-warning pro-des-but">
+<a href="javascript:void(0);" onclick="productEnquiry('locker almirah');">ENQUIRY NOW</a></button>
+<button type="button" class="btn btn-warning pro-des-but">
+<a href="locker_almirah">VIEW DETAIL</a></button>
+</div>    
+</div>
+</div>
+</div>
+<div class="col-md-6 col-lg-6 col-12">
+<div class="flagy" style="margin: 30px auto;  padding: 20px;  background-color: #fff;box-shadow: 0px 0px 10px 0px lightgrey;">
+<div class="row">
+<div class="col-md-6 col-lg-6 col-12"><a href="home_almirah">
+<img src="assets/images/pages/home_almirah.jpg" alt="Home Almirah" title="Home Almirah" class="img-fluid product-img"></a>
+</div>
+<div class="col-md-6 col-lg-6 col-12">
+<h4>Home Almirah</h4> 
+<p>High-quality wood or metal, Smooth, polished surfaces for durability and aesthetic appeal
+Dimensions: Typical heights of 6 to 7 feet, widths of 3 to 5 feet, and depths of 1.5 to 2 feet
+</p>
+ 
+<button type="button" class="btn btn-warning pro-des-but">
+<a href="javascript:void(0);" onclick="productEnquiry('Home Almirah');">ENQUIRY NOW</a></button>
+<button type="button" class="btn btn-warning pro-des-but">
+<a href="home_almirah">VIEW DETAIL</a></button>
+</div>    
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+</section>
+</main>
+<div class="modal fade" id="enquire">
+<div class="modal-dialog" style="max-width: 580px;">
+<div class="modal-content">
+
+<!-- Modal Header -->
+<div class="modal-header bg-warning" style="color:#fff">
+<h4 class="modal-title">Enquire Now</h4>
+<button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+</div>
+
+<!-- Modal body -->
+<div class="modal-body">
+<div class="row">
+
+<div class="col-md-12">
+<form method="post" action="#" name="popup-enq3" novalidate="novalidate">
+<input type="hidden" name="current_url" id="current_url" value="#">
+<input type="hidden" name="source" class="source" value="index">  
+<div class="row">
+<div class="col form-group mt-2">
+<input type="text" name="vb_name" class="form-control" id="vb_name" placeholder="Your Name">
+</div>
+<div class="col form-group  mt-2">
+<input type="email" class="form-control" name="vb_email" id="vb_email" placeholder="Your Email">
+</div>
+</div>
+
+<div class="row">
+<div class="col form-group  mt-2">
+<input class="form-control" type="text" name="vb_phone" placeholder="Your Mobile Number*" maxlength="10">
+</div>
+</div>
+
+
+<div class="form-group  mt-2">
+<textarea class="form-control" rows="5" name="vb_message" placeholder="Your Message*"></textarea>
+</div>
+
+<div class="req" style="display: none;">
+ <label for="website">Leave blank</label>
+ <input type="text" name="website">
+</div>
+
+
+<input type="hidden" name="time" value="2024-06-03 11:43:13">
+
+<div class="pull-left"><button type="submit" name="submit" class="btn btn-warning mt-3">Send Message</button></div>
+</form>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<?php 
+include_once('footer.php');
+?>

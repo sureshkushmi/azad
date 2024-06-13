@@ -1,0 +1,104 @@
+    .btn-top {
+        background: #f4cc30;
+        border: 2px solid #fff;
+        border-radius: .25rem;
+        padding: 5px;
+        color: white;
+        display: inline-block;
+        width: auto;
+    }
+
+    @media screen and (max-width: 406px) {
+        .top-bar {
+            margin: 0px !important;
+        }
+    }
+
+    .top-btn-m {
+        margin: 0px !important;
+    }
+
+    /* Custom CSS to ensure the mobile menu works properly */
+    .navbar-nav .nav-item {
+        margin-left: 15px;
+    }
+
+    .navbar-nav .dropdown-menu {
+        position: static;
+        float: none;
+    }
+
+    .navbar-nav .dropdown-menu .dropdown-item {
+        padding-left: 30px;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler:focus {
+        outline: none;
+    }
+
+    .navbar-toggler .fas {
+        font-size: 24px;
+    }
+
+    .mobile-nav-toggle {
+        font-size: 24px;
+        cursor: pointer;
+    }
+
+    /* Ensure the icon is visible */
+    .mobile-nav-toggle i {
+        color: #000;
+    }
+
+/* For larger screens */
+/* For larger screens */
+@media (min-width: 992px) {
+    .navbar ul {
+        display: flex !important; /* Ensure the main menu items are displayed for larger screens */
+    }
+
+    /* Ensure dropdown menus appear vertically */
+    .navbar .dropdown ul {
+        position: absolute;
+        top: 100%; /* Position the submenu below the parent item */
+        left: 0; /* Align the submenu with the parent item */
+        display: none;
+        min-width: 100%; /* Adjust as needed */
+        padding: 0;
+        margin: 0;
+        border-top: none;
+        transition: all 0.3s ease;
+        flex-direction: column; /* Display submenu items vertically */
+    }
+
+    .navbar .dropdown ul li {
+        display: block; /* Display submenu items as block */
+        position: relative;
+    }
+
+    .navbar .dropdown ul a {
+        display: block;
+        padding: 10px 15px;
+        font-size: 14px;
+        color: #666;
+        text-decoration: none;
+    }
+    
+    .navbar .dropdown:hover > ul {
+        display: block; /* Show the submenu when hovering over the parent item */
+    }
+}
+/* For mobile devices */
+@media (max-width: 991px) {
+    .navbar ul {
+        display: none !important; /* Hide the main menu items in mobile view */
+    }
+
+    .navbar-mobile ul {
+        display: block !important; /* Ensure the mobile menu is displayed */
+    }
+}
